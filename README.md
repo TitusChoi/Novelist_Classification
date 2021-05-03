@@ -1,4 +1,4 @@
-# Novelist Classification
+# Novelist_Classification
 소설 작가 분류에 대한 예측 모델 만들기 프로젝트입니다.
 
 ## Installation
