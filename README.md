@@ -10,7 +10,7 @@ drive.mount('/content/drive/')
 ```
 
 2. Download datasets to your drive at '/content/drive/MyDrive/Novelist_Classification/datasets/'<br>
-3. Download ebedding files to your drive at '/content/drive/MyDrive/Novelist_Classification/embedding/'<br>
+3. Download embedding files to your drive at '/content/drive/MyDrive/Novelist_Classification/embedding/'<br>
 - [fasttext.vec](https://drive.google.com/file/d/1yHGtccC2FV3_d6C6_Q4cozYSOgA7bG-e/view)
 - [glove.txt](https://drive.google.com/file/d/1yHGtccC2FV3_d6C6_Q4cozYSOgA7bG-e/view)
 - [GoogleNews-vectors-negative300.bin.gz](https://drive.google.com/file/d/1yHGtccC2FV3_d6C6_Q4cozYSOgA7bG-e/view)
