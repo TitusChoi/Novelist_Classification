@@ -3,6 +3,13 @@
 
 ## Installation
 IDE : Google Colab<br>
+1. Connect Novelist_Classification.ipynb to your drive.
+```sh
+from google.colab import drive
+drive.mount('/content/drive/')
+```
+
+2. Download datasets to your drive at '/content'
 
 ## Project Duration
 2021.04.23 ~ 2021.04.29
