@@ -10,7 +10,7 @@ drive.mount('/content/drive/')
 ```
 
 2. Download datasets to your drive at '/content/drive/MyDrive/Novelist_Classification/datasets/'<br>
-3. Download ebedding files to your drive at '/content/drive/MyDrive/Novelist_Classification/embbeding/'
+3. Download ebedding files to your drive at '/content/drive/MyDrive/Novelist_Classification/embedding/'
 
 ## Project Duration
 2021.04.23 ~ 2021.04.29
