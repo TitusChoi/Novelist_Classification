@@ -11,9 +11,9 @@ drive.mount('/content/drive/')
 
 2. Download datasets to your drive at '/content/drive/MyDrive/Novelist_Classification/datasets/'<br>
 3. Download embedding files to your drive at '/content/drive/MyDrive/Novelist_Classification/embedding/'<br>
-- Fasttext embedding datasets : [fasttext.vec](https://drive.google.com/file/d/1yHGtccC2FV3_d6C6_Q4cozYSOgA7bG-e/view)
-- Glove embedding datasets : [glove.txt](https://drive.google.com/file/d/1yHGtccC2FV3_d6C6_Q4cozYSOgA7bG-e/view)
-- Word2Vec embedding datasets : [GoogleNews-vectors-negative300.bin.gz](https://drive.google.com/file/d/1yHGtccC2FV3_d6C6_Q4cozYSOgA7bG-e/view)
+- Fasttext embedding file : [fasttext.vec](https://drive.google.com/file/d/1yHGtccC2FV3_d6C6_Q4cozYSOgA7bG-e/view)
+- Glove embedding file : [glove.txt](https://drive.google.com/file/d/1yHGtccC2FV3_d6C6_Q4cozYSOgA7bG-e/view)
+- Word2Vec embedding file : [GoogleNews-vectors-negative300.bin.gz](https://drive.google.com/file/d/1yHGtccC2FV3_d6C6_Q4cozYSOgA7bG-e/view)
 
 ## Project Duration
 2021.04.23 ~ 2021.04.29
